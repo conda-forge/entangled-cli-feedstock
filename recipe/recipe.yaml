@@ -1,5 +1,5 @@
 context:
-  version: "2.4.2"
+  version: "2.5.0"
   python_min: "3.13"
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/e/entangled-cli/entangled_cli-${{ version }}.tar.gz
-  sha256: d147d9b7d8ea24ac9a1407819e12ae6a377fa3368bdc955cf08126378c0c56bd
+  sha256: d1d254a574f3f362142799ce5c140604b2d5cb1619c14b0d63f746c5c891dafb
 
 build:
   number: 0
